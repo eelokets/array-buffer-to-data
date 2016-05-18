@@ -8,7 +8,7 @@ Converting array buffer to json/string/base64. Including works with Cyrillic.
 
 ###USAGE:
 #####Angular:
-- Include `src/angular/*.js`
+- Include `src/angular/array-buffer-to-data.js`
 - Include `array-buffer-to-data` as a module in your app.
 - In the right place, specify the dependency  on factory `arrayBufferToData`
 
@@ -21,14 +21,14 @@ app.controller('Ctrl', ['arrayBufferToData', function(arrayBufferToData) {
 ```
 
 #####Native:
-- Include `src/native/*.js`
+- Include `src/native/array-buffer-to-data.js`
 
 ```js
 arrayBufferToData.toJSON(ArrayBuffer);
 ```
 
 #####Nodejs:
-- Include `src/native/*.js`
+- Include `src/native/array-buffer-to-data.js`
 
 ```js
 var arrayBufferToData = require('array-buffer-to-data');

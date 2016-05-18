@@ -1,0 +1,23 @@
+{
+  "name": "array-buffer-to-data",
+  "description": "Converting array buffer to json/string/base64",
+  "main": "src/native/array-buffer-to-data.js",
+  "license": "ISC",
+  "keywords": [
+    "arrayBuffer",
+    "js",
+    "javascript"
+  ],
+  "author": {
+    "name": "Evgeny",
+    "email": "vicetjs@gmail.com"
+  },
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
