@@ -1,0 +1,23 @@
+{
+  "name": "array-buffer-to-data",
+  "version": "1.0.0",
+  "description": "Converting array buffer to json/string/base64",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicetjs/array-buffer-to-data.git"
+  },
+  "keywords": [
+    "arrayBuffer",
+    "js",
+    "javascript"
+  ],
+  "author": "Vicetjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicetjs/array-buffer-to-data/issues"
+  },
+  "homepage": "https://github.com/vicetjs/array-buffer-to-data#readme"
+}
