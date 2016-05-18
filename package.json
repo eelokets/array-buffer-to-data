@@ -1,6 +1,6 @@
 {
   "name": "array-buffer-to-data",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Converting array buffer to json/string/base64",
   "main": "src/native/array-buffer-to-data.js",
   "scripts": {
@@ -12,7 +12,10 @@
   "keywords": [
     "arrayBuffer",
     "js",
-    "javascript"
+    "javascript",
+    "nodejs",
+    "angular",
+    "byteArray"
   ],
   "author": {
     "name": "Evgeny",
