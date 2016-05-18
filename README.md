@@ -6,7 +6,7 @@ array-buffer-to-data
 ###DESCRIPTION:
 Converting array buffer to json/string/base64. Including works with Cyrillic.
 
+####USAGE:
+####USAGE:
 ###USAGE:
-##USAGE:
-#USAGE:
     
