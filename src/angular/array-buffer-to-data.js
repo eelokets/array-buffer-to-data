@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('array-buffer-to-data')
+        .module('array-buffer-to-data', [])
         .factory('arrayBufferToData', function () {
             return {
                 toBase64: function (arrayBuffer) {
