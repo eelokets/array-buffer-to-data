@@ -34,4 +34,4 @@
     } else {
         root.arrayBufferToData = arrayBufferToData;
     }
-})(this);
+}).call(this);
