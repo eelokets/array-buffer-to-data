@@ -1,5 +1,7 @@
-(function(root) {
+(function() {
     'use strict';
+
+    var root = this;
 
     var arrayBufferToData = {
         toBase64: function (arrayBuffer) {
