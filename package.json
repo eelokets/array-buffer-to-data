@@ -14,7 +14,10 @@
     "js",
     "javascript"
   ],
-  "author": "Vicetjs",
+  "author": {
+    "name": "Evgeny",
+    "email": "vicetjs@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vicetjs/array-buffer-to-data/issues"
