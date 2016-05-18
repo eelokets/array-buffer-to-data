@@ -32,7 +32,7 @@
     };
 
     if (typeof module !== "undefined" && module.exports) {
-        module.exports['array-buffer-to-data'] = arrayBufferToData;
+        module.exports = arrayBufferToData;
     } else {
         root.arrayBufferToData = arrayBufferToData;
     }
