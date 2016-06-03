@@ -14,7 +14,7 @@
             return window.btoa(binary);
         },
 
-        toSting: function (arrayBuffer) {
+        toString: function (arrayBuffer) {
             var base64 = this.toBase64(arrayBuffer);
 
             return decodeURIComponent(escape(window.atob(base64)));
