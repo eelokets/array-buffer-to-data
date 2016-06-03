@@ -7,8 +7,12 @@ array-buffer-to-data
 Converting array buffer to json/string/base64. Including works with Cyrillic.
 
 ###INSTALL:
+npm:
 ```js
 npm i array-buffer-to-data
+```
+bower:
+```js
 bower i array-buffer-to-data
 ```
 
