@@ -1,6 +1,6 @@
 {
   "name": "array-buffer-to-data",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Converting array buffer to json/string/base64",
   "main": "src/native/array-buffer-to-data.js",
   "license": "ISC",
@@ -22,6 +22,7 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "upload.cmd"
   ]
 }
