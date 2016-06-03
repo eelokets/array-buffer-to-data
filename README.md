@@ -6,6 +6,12 @@ array-buffer-to-data
 ###DESCRIPTION:
 Converting array buffer to json/string/base64. Including works with Cyrillic.
 
+###INSTALL:
+```js
+npm i array-buffer-to-data
+bower i array-buffer-to-data
+```
+
 ###USAGE:
 #####Angular:
 - Include `src/angular/array-buffer-to-data.js`
