@@ -3,7 +3,7 @@ array-buffer-to-data
 
 [![NPM version](https://badge.fury.io/js/array-buffer-to-data.svg)](http://badge.fury.io/js/array-buffer-to-data) [![Bower version](https://badge.fury.io/bo/array-buffer-to-data.svg)](http://badge.fury.io/bo/array-buffer-to-data)
 
-###DESCRIPTION:
+### DESCRIPTION:
 Converting array buffer to json/string/base64. Including works with Cyrillic.
 
 ###INSTALL:
