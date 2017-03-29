@@ -6,7 +6,7 @@ array-buffer-to-data
 ### DESCRIPTION:
 Converting array buffer to json/string/base64. Including works with Cyrillic.
 
-###INSTALL:
+### INSTALL:
 npm:
 ```js
 npm i array-buffer-to-data
@@ -16,8 +16,8 @@ bower:
 bower i array-buffer-to-data
 ```
 
-###USAGE:
-#####Angular:
+### USAGE:
+##### Angular:
 - Include `src/angular/array-buffer-to-data.js`
 - Include `array-buffer-to-data` as a module in your app.
 - In the right place, specify the dependency  on factory `arrayBufferToData`
@@ -30,14 +30,14 @@ app.controller('Ctrl', ['arrayBufferToData', function(arrayBufferToData) {
 }]);
 ```
 
-#####Native:
+##### Native:
 - Include `src/native/array-buffer-to-data.js`
 
 ```js
 arrayBufferToData.toJSON(ArrayBuffer);
 ```
 
-#####Nodejs:
+##### Nodejs:
 - Include `src/native/array-buffer-to-data.js`
 
 ```js
